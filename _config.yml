@@ -1,2 +1,3 @@
 name: Patrick Liu, CS Major
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
