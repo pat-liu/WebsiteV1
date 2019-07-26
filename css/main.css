@@ -88,3 +88,10 @@ img.pfp {
 ul.posts li {
     list-style: none;
 }
+@media (min-width: 768px) {
+   html {
+    margin: 60px auto;
+    width: 70%;
+    padding: 0;
+    }
+}
