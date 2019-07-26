@@ -45,6 +45,14 @@ p {
     color: #333;
     flex: 1;
 }
+p.center {
+    font-family: 'Arial';
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    flex: 1;
+    text-align:center;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
