@@ -45,8 +45,10 @@ ul.posts {
 }
 img.pfp {
     border-radius: 50%;
-    width:200px;
-    margin-right: 50px;
+    width:240px;
+    border-style: solid;
+    border-color: #1e90ff;
+    border: 3px solid #1e90ff;
 }
 ul.posts li {
     list-style: none;
