@@ -99,6 +99,7 @@ img.pfp {
 }
 ul.posts li {
     list-style: none;
+    text-align: -webkit-center;
 }
 @media (min-width: 0px) and (max-width: 767px) {
   body {
