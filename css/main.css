@@ -57,6 +57,7 @@ p.center {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-top: 50px;
 }/*
 footer.bottom {
     flex-shrink: 0;
@@ -110,7 +111,7 @@ ul.posts li {
 }
 @media (min-width: 768px) {
    html {
-    margin: 60px auto;
+    margin: 50px auto;
     width: 70%;
     padding: 0;
     }
