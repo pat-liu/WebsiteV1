@@ -50,6 +50,7 @@ footer.bottom {
     flex-shrink: 0;
     position: absolute;
     bottom: 0;
+    min-height: 0;
     margin-top: 100;
     margin-left: -280px;
     width: 100%;
