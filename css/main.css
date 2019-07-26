@@ -26,6 +26,7 @@ h1 {
 p.project {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #999;
 }
 p {
     font-size: 1.5em;
