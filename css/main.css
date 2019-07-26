@@ -43,6 +43,9 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
+img.pfp {
+    border-radius: 50%;
+}
 
 ul.posts li {
     list-style: none;
