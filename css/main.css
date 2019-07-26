@@ -29,7 +29,8 @@ p.project {
     color: #1e90ff;
 }
 p {
-    font-size: 1.5em;
+    font-family: 'Arial';
+    font-size: 1.4em;
     line-height: 1.4em;
     color: #333;
 }
