@@ -104,9 +104,14 @@ ul.posts li {
 }
 @media (min-width: 0px) and (max-width: 767px) {
   body {
-    margin: 50px auto;
+    margin: 30px auto;
     width: 70%;
     padding: 0;
+      -webkit-transform: rotate(90deg); 
+        -moz-transform: rotate(90deg); 
+        -ms-transform: rotate(90deg); 
+        -o-transform: rotate(90deg); 
+        transform: rotate(90deg);
 }
 }
 @media (min-width: 768px) {
@@ -126,6 +131,7 @@ ul.posts li {
     overflow:hidden;
     display:block;
 }
+    /*
 @media all and (orientation: portrait) {
     body {
         -webkit-transform: rotate(90deg); 
@@ -133,6 +139,6 @@ ul.posts li {
         -ms-transform: rotate(90deg); 
         -o-transform: rotate(90deg); 
         transform: rotate(90deg); 
-    }
+    }*/
 }
 }
