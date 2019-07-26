@@ -8,6 +8,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    text-align:center;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -29,6 +30,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
 }
 .project {
     font-size: 1.3em;
