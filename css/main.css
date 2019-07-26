@@ -58,6 +58,7 @@ p.centerfooter{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
     font-size: 1em;
+    color: white;
 }
 footer {
     border-top: 2px solid #d5d5d5;
