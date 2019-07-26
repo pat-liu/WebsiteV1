@@ -103,10 +103,21 @@ ul.posts li {
     text-align: -webkit-center;
 }
 @media (min-width: 0px) and (max-width: 767px) {
-  body {
-    margin: 30px auto;
+     html {
+    margin: 50px auto;
     width: 70%;
     padding: 0;
+    }
+  body {
+    margin: auto;
+    width: 70%;
+    border: black;
+    border-width: 3px;
+    box-sizing: border-box;
+    border-style: solid;
+    padding: 30px;
+    overflow:hidden;
+    display:block;
       -webkit-transform: rotate(90deg); 
         -moz-transform: rotate(90deg); 
         -ms-transform: rotate(90deg); 
