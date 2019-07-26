@@ -45,6 +45,7 @@ ul.posts {
 }
 img.pfp {
     border-radius: 50%;
+    width:240px;
 }
 
 ul.posts li {
