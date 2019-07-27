@@ -73,6 +73,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline-block;
     margin-right: 25px;
+    font-family: '"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 a {
     color: #1e90ff;
@@ -98,7 +99,7 @@ h1 {
 }
 .project {
     font-size: 1.3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: #1e90ff;
     text-align: center;
 }
@@ -110,7 +111,7 @@ p {
     flex: 1;
 }
 p.center {
-    font-family: 'Arial';
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -118,7 +119,7 @@ p.center {
     text-align:center;
 }
 p.centerfooter{
-   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 1.2em;
     /* line-height: 1.4em; */
     color: white;
