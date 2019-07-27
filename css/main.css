@@ -127,6 +127,10 @@ ul.posts li {
     margin: 60px auto;
     width: 80%;
     padding: 100px;
+    border: black;
+    border-width: 3px;
+    box-sizing: border-box;
+    border-style: solid;
 }
 }
 @media (min-width: 768px) {
