@@ -52,7 +52,6 @@ img.pfp {
     }
    body {
     margin: auto;
-    width: 70%;
     border: black;
     border-width: 3px;
     box-sizing: border-box;
@@ -60,6 +59,8 @@ img.pfp {
     padding: 30px;
     overflow:hidden;
     display:block;
+    width: 80%;
+    height: 80%;
 }
 nav ul, footer ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
