@@ -38,10 +38,10 @@ img.pfp {
     vertical-align: text-top;
     margin-top: 5px;
     border-radius: 50%;
-    width:200px;
+    width:125px;
     border-style: solid;
     border-color: #d5d5d5;
-    border: 3px solid #1e90ff;
+    border: 3px solid #d5d5d5;
 }
 }
 @media (min-width: 768px) {
