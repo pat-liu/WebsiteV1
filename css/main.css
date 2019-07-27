@@ -71,7 +71,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 a {
     color: #1e90ff;
