@@ -52,7 +52,7 @@ img.pfp {
     }
    body {
     margin: auto;
-    border: black;
+    border: #C0C0C0;
     border-width: 3px;
     box-sizing: border-box;
     border-style: solid;
