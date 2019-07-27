@@ -70,6 +70,7 @@ nav ul, footer ul {
     font-weight: bold;
     text-align: center;
     background-color: #F2F3F4;
+    border: 1px solid #D3D3D3;
 }
 nav ul li, footer ul li {
     display: inline-block;
