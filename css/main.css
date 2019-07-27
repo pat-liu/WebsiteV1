@@ -58,7 +58,6 @@ img.pfp {
     box-sizing: border-box;
     border-style: solid;
     padding: 30px;
-    overflow:hidden;
     display:block;
     width: 80%;
     height: 80%;
