@@ -94,6 +94,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
     font-family:'Roboto', sans-serif;
+    padding: 10px;
 }
 .project {
     font-size: 1.3em;
