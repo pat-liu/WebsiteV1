@@ -97,6 +97,7 @@ h1 {
    /* font-family:Helvetica, Arial, Sans-Serif; */
     font-family: 'Open Sans', sans-serif;
     padding: 10px;
+    font-weight: 500;
 }
 .project {
     font-size: 1.3em;
