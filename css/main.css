@@ -73,7 +73,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline-block;
     margin-right: 25px;
-    font-family: '"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 a {
     color: #1e90ff;
