@@ -11,7 +11,7 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.4em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1.4em; line-height: 1.4em; color: #333; align: justified; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 2em;  }
@@ -71,7 +71,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    margin-right: 25px;
+    margin-right: 20px;
 }
 a {
     color: #1e90ff;
