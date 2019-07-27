@@ -65,7 +65,7 @@ img.pfp {
 }
 nav ul, footer ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    padding-bottom: 7px;
+    padding: 7px;
     list-style: none;
     font-weight: bold;
     text-align: center;
