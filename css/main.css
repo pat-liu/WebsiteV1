@@ -1,1 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+/*body {
+    margin: 60px auto;
+    width: 70%;
+    padding: 0;
+}*/
 
+@media (min-width: 0px) and (max-width: 767px) {
+     
+body { margin: 60px auto; width: 70%; }
+
+a { text-decoration: none; color: #999; }
+a:hover { text-decoration: underline; }
+
+p, ul { font-size: 1.4em; line-height: 1.4em; color: #333; align: justified; }
+
+h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1 { font-size: 2em;  }
+h2 { font-size: 2.7em; }
+h3 { font-size: 2.3em; }
+h4 { font-size: 1.9em; }
+
+nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul li, footer ul li { display: inline-block; margin-right: 20px; }
+
+footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+footer.bottom {
+     border-top: 1px solid white;
+    font-size: .8em;
+    margin-top: 30px;
+}
+/* Blog */
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; }
+    
+img.pfp {
+    margin-right: 30px;
+    margin-bottom: 20px;
+    vertical-align: text-top;
+    margin-top: -15px;
+    border-radius: 50%;
+    width:150px;
+    border-style: solid;
+    border-color: #d5d5d5;
+    border: 3px solid #d5d5d5;
+}
+}
+@media (min-width: 768px) {
+   html {
+    margin: 50px auto;
+    width: 70%;
+    padding: 0;
+    }
+   body {
+    margin: auto;
+    border: #C0C0C0;
+    border-width: 3px;
+    box-sizing: border-box;
+    border-style: solid;
+    padding: 30px;
+    display:block;
+    width: 80%;
+    height: 80%;
+}
+nav ul, footer ul {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 7px;
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    background-color: #F2F3F4;
+    border: 1px solid #D3D3D3;
+}
+nav ul li, footer ul li {
+    display: inline-block;
+    margin-right: 25px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+a {
+    color: #1e90ff;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+}
+a.footer {
+    color: #1e90ff;
+    font-size: 15px;
+    text-decoration: underline;
+}
+a:hover {
+     text-decoration: line-through;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+   /* font-family:Helvetica, Arial, Sans-Serif; */
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    font-weight: 500;
+}
+.project {
+    font-size: 1.3em;
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: #1e90ff;
+    text-align: center;
+}
+p {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    flex: 1;
+}
+p.center {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    flex: 1;
+    text-align:center;
+}
+p.centerfooter{
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 1.2em;
+    /* line-height: 1.4em; */
+    color: white;
+    flex: 1;
+    text-align: center;
+    line-height: .4em;
+}
+footer {
+    border-top: 2px solid #d5d5d5;
+    font-size: .8em;
+    margin-top: 30px;
+}
+footer.bottom {
+     border-top: 2px solid white;
+    font-size: .8em;
+    margin-top: 30px;
+}/*
+footer.bottom {
+    flex-shrink: 0;
+    position: absolute;
+    bottom: 0;
+    min-height: 0;
+    margin-top: 100;
+    margin-left: -280px;
+    width: 100%;
+    display: block;
+    background-color: #1e90ff;
+    padding: 15px;
+}*/
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -85px; /* the bottom margin is the negative value of the footer's height */
+}
+.bottom, .push {
+    height: 15px; /* .push must be the same height as .footer */
+    background-color: #1e90ff;
+    bottom: 0;
+    margin-top: 85px;
+}
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+img.pfp {
+    margin-right: 40px;
+    margin-bottom: 20px;
+    vertical-align: text-top;
+    margin-top: 5px;
+    border-radius: 50%;
+    width:200px;
+    border-style: solid;
+    border-color: #1e90ff;
+    border: 3px solid #1e90ff;
+}
+ul.posts li {
+    list-style: none;
+    text-align: -webkit-center;
+}
+    /*
+@media all and (orientation: portrait) {
+    body {
+        -webkit-transform: rotate(90deg); 
+        -moz-transform: rotate(90deg); 
+        -ms-transform: rotate(90deg); 
+        -o-transform: rotate(90deg); 
+        transform: rotate(90deg); 
+    }*/
+}
