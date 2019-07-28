@@ -121,13 +121,13 @@ p.center {
     text-align:center;
 }
 p.centerfooter{
-   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 1.2em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4em;
     /* line-height: 1.4em; */
     color: white;
     flex: 1;
     text-align: center;
-    line-height: .4em;
+    line-height: 0em;
 }
 footer {
     border-top: 2px solid #d5d5d5;
