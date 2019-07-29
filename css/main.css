@@ -6,26 +6,35 @@
 }*/
 @media (min-width: 0px) and (max-width: 1023px) {
     html {
-        width: 100%;
+        margin: 50px auto;
+        width: 90%;
         padding: 0px;
         }
        body {
         margin: auto;
-        padding: 30px;
+        padding: 25px;
         display:block;
         width: 90%;
-        height: 90%;
+        height: 100%;
+        border: #C0C0C0;
+        border-width: 3px;
+        border-radius: 50px;
+        box-sizing: border-box;
+        border-style: solid;
+        
     }
 }
 @media(min-width:1024px) {
    html {
+    margin: 50px auto;
     width: 80%;
-    padding: 30px;
+    padding: 0px;
     }
    body {
     margin: auto;
     border: #C0C0C0;
     border-width: 3px;
+    border-radius: 50px;
     box-sizing: border-box;
     border-style: solid;
     padding: 30px;
@@ -172,10 +181,9 @@ img.pfp {
 }
 .flexbox{
     display: table; /* Make the container element behave like a table */
-    width: 88%; /* Set full-width to expand the whole page */
+    width: 100%; /* Set full-width to expand the whole page */
     margin-left: auto;
     margin-right: auto;
-
     border-spacing: 2.2em 1.2em;
 }
 .green{
