@@ -4,11 +4,9 @@
     width: 70%;
     padding: 0;
 }*/
-
-
    html {
     margin: 50px auto;
-    width: 70%;
+    width: 80%;
     padding: 0;
     }
    body {
@@ -167,4 +165,4 @@ ul.posts li {
         -o-transform: rotate(90deg); 
         transform: rotate(90deg); 
     }*/
-}
+
