@@ -239,6 +239,24 @@ ul.posts li {
     list-style: none;
     text-align: -webkit-center;
 }
+hr{
+    height: 2.5px;
+    width: 175px;
+    left: 0;
+    right: 0;
+    background: #1e90ff;
+    /*#3498db;*/
+    overflow: hidden;
+    animation: short-width 1s ease-out forwards;
+}
+@keyframes short-width {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 17%;
+    }
+  }
     /*
 @media all and (orientation: portrait) {
     body {
