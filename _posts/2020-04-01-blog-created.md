@@ -4,4 +4,4 @@ title: "Quarantine Update"
 date: 2020-04-01
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta http-equiv = "refresh" content = "0; url = https://www.youtube.com/watch?v=oHg5SJYRHA0" />
